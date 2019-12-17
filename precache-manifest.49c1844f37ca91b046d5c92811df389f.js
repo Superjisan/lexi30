@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89a0414a766a29b41eb759a7a47bda12",
+    "revision": "db96ded52d508e52f3b3dd60f80cf55c",
     "url": "/lexi30/index.html"
   },
   {
-    "revision": "d50d3df90ca5f10cd9af",
+    "revision": "d7d043fc2a80a4bafd72",
     "url": "/lexi30/static/css/main.5df7d988.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lexi30/static/js/2.e5380aba.chunk.js.LICENSE"
   },
   {
-    "revision": "d50d3df90ca5f10cd9af",
-    "url": "/lexi30/static/js/main.4fb423ae.chunk.js"
+    "revision": "d7d043fc2a80a4bafd72",
+    "url": "/lexi30/static/js/main.cbeb3831.chunk.js"
   },
   {
     "revision": "eb1e2162e3ee6d4f0ee3",

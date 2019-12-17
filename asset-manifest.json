@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lexi30/static/css/main.5df7d988.chunk.css",
-    "main.js": "/lexi30/static/js/main.4fb423ae.chunk.js",
-    "main.js.map": "/lexi30/static/js/main.4fb423ae.chunk.js.map",
+    "main.js": "/lexi30/static/js/main.cbeb3831.chunk.js",
+    "main.js.map": "/lexi30/static/js/main.cbeb3831.chunk.js.map",
     "runtime-main.js": "/lexi30/static/js/runtime-main.9d438b8b.js",
     "runtime-main.js.map": "/lexi30/static/js/runtime-main.9d438b8b.js.map",
     "static/js/2.e5380aba.chunk.js": "/lexi30/static/js/2.e5380aba.chunk.js",
     "static/js/2.e5380aba.chunk.js.map": "/lexi30/static/js/2.e5380aba.chunk.js.map",
     "index.html": "/lexi30/index.html",
-    "precache-manifest.d88801a7dc725020142021581cc8d5ab.js": "/lexi30/precache-manifest.d88801a7dc725020142021581cc8d5ab.js",
+    "precache-manifest.49c1844f37ca91b046d5c92811df389f.js": "/lexi30/precache-manifest.49c1844f37ca91b046d5c92811df389f.js",
     "service-worker.js": "/lexi30/service-worker.js",
     "static/css/main.5df7d988.chunk.css.map": "/lexi30/static/css/main.5df7d988.chunk.css.map",
     "static/js/2.e5380aba.chunk.js.LICENSE": "/lexi30/static/js/2.e5380aba.chunk.js.LICENSE",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.9d438b8b.js",
     "static/js/2.e5380aba.chunk.js",
     "static/css/main.5df7d988.chunk.css",
-    "static/js/main.4fb423ae.chunk.js"
+    "static/js/main.cbeb3831.chunk.js"
   ]
 }
